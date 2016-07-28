@@ -1,0 +1,1 @@
+This is a set of lessons used to teach foundational knowledge on programming (Python, API, JSON, parsing...).   
